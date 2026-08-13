@@ -32,6 +32,17 @@ production supervisors, quality inspectors, and the IT team that now maintains t
 
 <br>
 
+## Off the floor
+
+Spatial analysis from my Big Data Convergence coursework — kept as a pipeline that still runs,
+not a slide deck.
+
+| | Project | What it does | Stack |
+|:--:|---|---|---|
+| 🗺️ | **[seoul-smoking-booth-siting](https://github.com/sw1243-spec/seoul-smoking-booth-siting)** | Ranks where Seoul should install outdoor smoking booths — random forest feature importance weights a 500 m grid of 298 candidate cells, minus the no-smoking buffer zones around schools, clinics and transit | `Python` `GeoPandas` `scikit-learn` |
+
+<br>
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,6 +52,8 @@ production supervisors, quality inspectors, and the IT team that now maintains t
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
