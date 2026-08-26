@@ -1,4 +1,4 @@
-![Sewoon Jin — Business Development · Operations to Software](./assets/banner.png)
+![Sewoon Jin — Business Development · Operations to Software](./assets/banner.gif)
 
 <div align="center">
 
