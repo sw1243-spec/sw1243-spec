@@ -1,4 +1,4 @@
-![Sewoon Jin — I worked the shop floor, then built the software for it.](https://capsule-render.vercel.app/api?type=waving&color=0:FFDB70,100:CEB15A&height=190&section=header&text=Sewoon%20Jin&fontSize=52&fontColor=1A1A1A&fontAlignY=38&desc=I%20worked%20the%20shop%20floor,%20then%20built%20the%20software%20for%20it.&descSize=17&descAlignY=58&descAlign=50)
+![Sewoon Jin — Business Development · Operations to Software](./assets/banner.png)
 
 <div align="center">
 
@@ -81,4 +81,3 @@ Excellence Award, company-wide AI Utilization Contest — Hansae Mobility (2026)
 <sub>Currently building software for a U.S. manufacturer, remotely from Busan.</sub>
 </div>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:CEB15A,100:FFDB70&height=120&section=footer)
