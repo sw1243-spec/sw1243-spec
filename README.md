@@ -17,9 +17,8 @@ where I digitized the paper checksheets I had been filling out by hand.
 
 ## Built for the floor
 
-The first four were built for a working automotive plant and used by the people on it —
+All four were built for a working automotive plant and are used by the people on it —
 production supervisors, quality inspectors, and the IT team that now maintains them with me.
-The last one started as a university GIS study and was rebuilt as a reproducible pipeline.
 
 | | Project | What it does | Stack |
 |:--:|---|---|---|
@@ -27,7 +26,6 @@ The last one started as a university GIS study and was rebuilt as a reproducible
 | 🕐 | **[ShiftScheduler](https://github.com/sw1243-spec/ShiftScheduler)** | Desktop shift-scheduling app for production teams, with an optional API backend | `Python` `Tkinter` `FastAPI` |
 | 🌐 | **[WorkInstruction-Translator](https://github.com/sw1243-spec/WorkInstruction-Translator)** | Batch-translates DOCX / PPTX / XLSX / PDF work instructions with a shared terminology glossary | `Python` `DeepL` `OpenAI` |
 | 📊 | **[VBA-Macro-for-QC](https://github.com/sw1243-spec/VBA-Macro-for-QC)** | Six recurring Excel reports automated — downtime, debit, scrap, rework, LPA scheduling | `Excel VBA` |
-| 🗺️ | **[seoul-smoking-booth-siting](https://github.com/sw1243-spec/seoul-smoking-booth-siting)** | Ranks where Seoul should install outdoor smoking booths — random-forest feature importance over a 500 m grid, reproducible end to end | `Python` `GeoPandas` `scikit-learn` |
 
 > **On the public versions** — features match what runs internally, but every customer name, part number,
 > and tolerance has been replaced with demo values. Nothing confidential ships in these repos.
@@ -36,11 +34,12 @@ The last one started as a university GIS study and was rebuilt as a reproducible
 
 ## Off the floor
 
-Spatial analysis from my Big Data Convergence coursework — kept as a pipeline that still runs,
-not a slide deck.
+Analysis outside the plant — a city competition entry and a coursework study, both kept as
+pipelines that still run rather than slide decks.
 
 | | Project | What it does | Stack |
 |:--:|---|---|---|
+| 📉 | **[busan-smb-early-warning](https://github.com/sw1243-spec/busan-smb-early-warning)** | Busan's older commercial districts are in metabolic arrest — merchants neither leave nor arrive — but indicators that count only closures read that as stability. Card-transaction analysis run inside the Busan Data Open Lab for the 2026 city big-data competition | `Python` `pandas` `SciPy` |
 | 🗺️ | **[seoul-smoking-booth-siting](https://github.com/sw1243-spec/seoul-smoking-booth-siting)** | Ranks where Seoul should install outdoor smoking booths — random forest feature importance weights a 500 m grid of 298 candidate cells, minus the no-smoking buffer zones around schools, clinics and transit | `Python` `GeoPandas` `scikit-learn` |
 
 <br>
@@ -55,7 +54,6 @@ not a slide deck.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -64,8 +62,9 @@ not a slide deck.
 ## Background
 
 **Hansae Mobility USA** — Pontiac, Michigan
-Quality Control Intern (Jan–Jun 2026), then retained as an independent contractor.
-Ran line audits and document control by day; built the tools that replaced them.
+Quality Control Intern (Jan–Jun 2026). Ran line audits and document control by day;
+built the tools that replaced them. Now retained on a B2B consulting and software
+development contract through my own registered business, SAYWON.
 
 **Pukyong National University** — Busan, Korea
 International Business & Big Data Convergence, double major · Class of 2027
