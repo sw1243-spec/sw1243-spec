@@ -7,7 +7,7 @@ where I digitized the paper checksheets I had been filling out by hand.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sewoonjin.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sewoonjin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swj.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swj.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sewoonjin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sewoonjin/)
 [![Email](https://img.shields.io/badge/Email-jinsewoon1243-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinsewoon1243@gmail.com)
 
