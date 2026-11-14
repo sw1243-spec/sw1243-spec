@@ -71,8 +71,17 @@ International Business & Big Data Convergence, double major · Class of 2027
 Exchange: Georgia College & State University · Wayne State University, Detroit
 
 **Awards**
-Excellence Award, company-wide AI Utilization Contest — Hansae Mobility (2026)
-1st Prize, BITLO Trade & Logistics Competition — Busan Development Institute & Busan Port Authority (2024)
+- Excellence Award, PNU Anchorthon — Pusan National University Institute for Startups Support (2026)
+- Minister of Education Award, Disability Awareness Content Contest (essay) — Korean Parents' Association for Persons with Disabilities (2026)
+- Outstanding Award, Anchor Global Camp IR Pitch, Singapore — plus a letter of intent from Busan United Holdings (2026)
+- Winner, Yozmgeotdeul Magazine Contest (AI use-case essay) — MAYCAN (2026)
+- Second Prize, SEA SCOUT S-Spoke Camp — Ministry of Education · National Research Foundation of Korea (2026)
+- Excellence Award, Anchor Startup League — Pukyong National University Anchor HQ (2026)
+- Second Prize, AI Startup Studio — Busan RISE Innovation Institute (2026)
+- Second Prize, company-wide AI Utilization Contest — Hansae Mobility (2026)
+- First Prize, BITLO Trade & Logistics Competition — Busan Development Institute & Busan Port Authority (2024)
+
+Full list with details: [swj.app](https://swj.app/) → Resume → Awards
 
 <br>
 
