@@ -34,13 +34,15 @@ production supervisors, quality inspectors, and the IT team that now maintains t
 
 ## Off the floor
 
-Analysis outside the plant — a city competition entry and a coursework study, both kept as
-pipelines that still run rather than slide decks.
+Work outside the plant — competition entries and a coursework study, kept as
+tools and pipelines that still run rather than slide decks.
 
 | | Project | What it does | Stack |
 |:--:|---|---|---|
 | 📉 | **[busan-smb-early-warning](https://github.com/sw1243-spec/busan-smb-early-warning)** | Busan's older commercial districts are in metabolic arrest — merchants neither leave nor arrive — but indicators that count only closures read that as stability. Card-transaction analysis run inside the Busan Data Open Lab for the 2026 city big-data competition | `Python` `pandas` `SciPy` |
 | 🗺️ | **[seoul-smoking-booth-siting](https://github.com/sw1243-spec/seoul-smoking-booth-siting)** | Ranks where Seoul should install outdoor smoking booths — random forest feature importance weights a 500 m grid of 298 candidate cells, minus the no-smoking buffer zones around schools, clinics and transit | `Python` `GeoPandas` `scikit-learn` |
+| 🛡️ | **[Garimak](https://swj.app/)** | Windows app that crawls a public-sector website and finds illegal gambling and adult ads hidden in pages, comments and iframes — 11 hiding tricks covered, all 28 planted ads found, zero false alarms across 160 pages of 4 government sites. Entry for the Ministry of the Interior and Safety detection-tool contest (source private while under review) | `Python` `Playwright` `pywebview` |
+| 🪪 | **[ansim-sabon](https://github.com/sw1243-spec/ansim-sabon)** | Expiring copy of a mobile ID: shares only the fields a purpose needs, for a set number of days, and rejects tampered, forged, expired or revoked copies via ES256 signatures. [Live demo](https://sw1243-spec.github.io/ansim-sabon/) | `JavaScript` `WebCrypto` `SD-JWT` |
 
 <br>
 
